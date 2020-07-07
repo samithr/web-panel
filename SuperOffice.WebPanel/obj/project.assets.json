@@ -2255,11 +2255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Apps\\WebPanel\\SuperOffice.WebPanel\\SuperOffice.WebPanel\\SuperOffice.WebPanel.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\web-panel\\SuperOffice.WebPanel\\SuperOffice.WebPanel.csproj",
       "projectName": "SuperOffice.WebPanel",
-      "projectPath": "D:\\Apps\\WebPanel\\SuperOffice.WebPanel\\SuperOffice.WebPanel\\SuperOffice.WebPanel.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\web-panel\\SuperOffice.WebPanel\\SuperOffice.WebPanel.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Apps\\WebPanel\\SuperOffice.WebPanel\\SuperOffice.WebPanel\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\web-panel\\SuperOffice.WebPanel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

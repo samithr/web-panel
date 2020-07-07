@@ -79,8 +79,8 @@ namespace SuperOffice.WebPanel
             {
                 Authority = "https://sod.superoffice.com/login",
                 LoadProfile = false,
-                ClientId = "0c045f1855ea5197eaa0ba4d0d6a1db1",
-                ClientSecret = "ad3a152032562d305d2f07f508401e1e",
+                ClientId = "",
+                ClientSecret = "",
                 Scope = "openid",
                 RedirectUri = redirectUri,
                 ResponseMode = OidcClientOptions.AuthorizeResponseMode.FormPost,

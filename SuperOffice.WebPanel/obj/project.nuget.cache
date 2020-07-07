@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kTXbSXaJi/Ok2TgCLG1q0173Pc7Rd8XnxonTZzU3Aep7dDULxwD1HzsSmMJL7kOi+J+Jk5vsuyZnMU0lFWpew==",
+  "dgSpecHash": "t+SNt6VPucARm+29Pw+7zmKU//BO2UM71nznGpJ8ZOKjrLmFOXKYWhf+sxUtKrXoGg5HR4k4zCA+BYY+KBgPbQ==",
   "success": true,
-  "projectFilePath": "D:\\Apps\\WebPanel\\SuperOffice.WebPanel\\SuperOffice.WebPanel\\SuperOffice.WebPanel.csproj",
+  "projectFilePath": "C:\\Users\\User\\Downloads\\web-panel\\SuperOffice.WebPanel\\SuperOffice.WebPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\identitymodel\\4.1.0\\identitymodel.4.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\identitymodel.oidcclient\\3.1.2\\identitymodel.oidcclient.3.1.2.nupkg.sha512",
